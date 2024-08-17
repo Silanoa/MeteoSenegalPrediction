@@ -3,5 +3,5 @@ pandas
 numpy
 plotly.express
 tensorflow
-sklearn.preprocessing
+sklearn
 datetime
